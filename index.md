@@ -2,7 +2,7 @@
 
 I, as a student, studying Information Systems and Technologies program at Mersin University. I am currently taking third class of my program.
 
-## Points of Interest
+### Points of Interest
 
 I enjoy using linux distrobutions because of lightweightness in terms of both disk size and usage ease.
 
