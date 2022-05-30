@@ -1,37 +1,15 @@
 ## Introduction
 
-I, as a student, studying Information Systems and Technologies program at Mersin University.
+I, as a student, studying Information Systems and Technologies program at Mersin University. I am currently taking third class of my program.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Points of Interest
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I enjoy using linux distrobutions because of lightweightness in terms of both disk size and usage ease.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+sudo su
+apt update
+apt dist-upgrade -y
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yusufcosar/yusufcosar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+One of my hobbies is wireless communications. I've done some soldering of oscillators and connecting them home-made antennas. Later, I comparised my antennas and 50 ohm resistors in terms of efficiency as dBm. I also have a 88-108 MHz FM transmittor which its antenna made by me. It has a aux input that can be connected to mobile phone for music broadcast and it has a micropohone on it for speech broadcast. It's range is 3-5 meters.
