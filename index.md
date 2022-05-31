@@ -2,7 +2,7 @@
 
 I, as a student, studying Information Systems and Technologies program at Mersin University. I am currently taking third class of my program.
 
-I'm interested in develop C# and web-based applications. I previously made online radio broadcasting systems for schools.
+I'm interested in developing C# and web-based applications. I previously made online radio broadcasting systems for schools.
 
 ### Points of Interest
 
