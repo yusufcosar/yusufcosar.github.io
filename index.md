@@ -18,4 +18,4 @@ One of my hobbies is wireless communications. I've done some soldering of oscill
 
 ### Portable Refrigerator Project
 
-[You can view my hobby project by visiting this link.](./ref_proj.md)
+You can view my hobby project [by visiting this link.](./ref_proj.md)
